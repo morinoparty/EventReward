@@ -1,0 +1,12 @@
+name: EventReward
+version: 1.0
+main: com.github.namiuni.eventreward.EventReward
+api-version: 1.13
+commands:
+  event:
+permissions:
+  moripa.admin:
+    default: op
+    description: King of moripa.
+  moripa.mod:
+    description: moderator

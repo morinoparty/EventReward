@@ -1,0 +1,40 @@
+#
+# 景品の内容とプレイヤーのリスト
+#
+
+awardlist:
+  18: # ドM賞
+    economy: 2500
+    dragonegg: true
+    item: "ENCHANTED_GOLDEN_APPLE"
+    amount: 5
+  15: # 廃人賞
+    economy: 2250
+    dragonegg: true
+    item: "ENCHANTED_GOLDEN_APPLE"
+    amount: 3
+  12: # 伝説賞
+    economy: 2000
+    dragonegg: true
+    item: "ENCHANTED_GOLDEN_APPLE"
+    amount: 1
+  9: # 強者賞
+    economy: 1750
+    dragonegg: true
+    item: "GOLDEN_APPLE"
+    amount: 3
+  6: # 金賞
+    economy: 1500
+    dragonegg: false
+    item: "GOLDEN_APPLE"
+    amount: 1
+  4: # 銀賞
+    economy: 1000
+    dragonegg: false
+    item: "DIAMOND"
+    amount: 3
+  2: # 銅賞
+    economy: 500
+    dragonegg: false
+    item: "DIAMOND"
+    amount: 1
